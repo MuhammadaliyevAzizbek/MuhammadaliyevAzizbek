@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MuhammadaliyevAzizbek
+- 👋 Hi, I’m Muhammadaliyev Azizbek
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning Jquery
+- 🌱 I’m currently learning react framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mahamadaliyevazizbek2@gmail.com
 
 <!---
 MuhammadaliyevAzizbek/MuhammadaliyevAzizbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
